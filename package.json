@@ -1,0 +1,12 @@
+{
+  "name": "serverExpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuidv4": "^6.2.6"
+  }
+}
